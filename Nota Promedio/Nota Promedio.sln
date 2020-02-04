@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Nota Promedio", "Nota Promedio\Nota Promedio.vcxproj", "{52F68EBF-2ED8-4E98-871E-65C7EA6C9318}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52F68EBF-2ED8-4E98-871E-65C7EA6C9318}.Debug|x64.ActiveCfg = Debug|x64
+		{52F68EBF-2ED8-4E98-871E-65C7EA6C9318}.Debug|x64.Build.0 = Debug|x64
+		{52F68EBF-2ED8-4E98-871E-65C7EA6C9318}.Debug|x86.ActiveCfg = Debug|Win32
+		{52F68EBF-2ED8-4E98-871E-65C7EA6C9318}.Debug|x86.Build.0 = Debug|Win32
+		{52F68EBF-2ED8-4E98-871E-65C7EA6C9318}.Release|x64.ActiveCfg = Release|x64
+		{52F68EBF-2ED8-4E98-871E-65C7EA6C9318}.Release|x64.Build.0 = Release|x64
+		{52F68EBF-2ED8-4E98-871E-65C7EA6C9318}.Release|x86.ActiveCfg = Release|Win32
+		{52F68EBF-2ED8-4E98-871E-65C7EA6C9318}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD0FBBFB-FFBE-4A85-9994-7AB7C0E919F9}
+	EndGlobalSection
+EndGlobal
